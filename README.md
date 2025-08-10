@@ -28,12 +28,12 @@ rs.initiate(
 )
 ```
 
-If you want to check if the initialization was successful, you can use:
+_If you want to check if the initialization was successful, you can use:_
 ```
 rs.status()
 ```
 
-Leave the mongosh session with:
+_Leave the mongosh session with:_
 ```
 exit
 ```
@@ -62,12 +62,12 @@ rs.initiate(
 )
 ```
 
-Check the initialization:
+_Check if the initialization went well:_
 ```
 rs.status()
 ```
 
-Leave the mongosh session with:
+_Leave the mongosh session with:_
 ```
 exit
 ```
@@ -87,7 +87,7 @@ mongosh mongodb://<Your IP Address>:30001
 sh.addShard("shard_rs/192.168.178.56:20001,192.168.178.56:20002,192.168.178.56:20003")
 ```
 
-Check if all shards were added:
+_Check if all shards were added:_
 ```
 rs.status()
 ```
