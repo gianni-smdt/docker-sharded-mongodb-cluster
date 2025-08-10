@@ -72,7 +72,7 @@ _Leave the mongosh session with:_
 exit
 ```
 
-7. Start the container for the MongoDB Router:
+7. Start the container for the "MongoDB Shard Utility":
 ```
 docker compose up -d mongos
 ```
