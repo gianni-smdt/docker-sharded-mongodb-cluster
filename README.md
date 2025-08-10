@@ -84,7 +84,7 @@ mongosh mongodb://<Your IP Address>:30001
 
 9. Add the shards to the cluster:
 ```
-sh.addShard("shard_rs/192.168.178.56:20001,192.168.178.56:20002,192.168.178.56:20003")
+sh.addShard("shard_rs/<Your IP Address>:20001,<Your IP Address>:20002,<Your IP Address>:20003")
 ```
 
 _Check if all shards were added:_
