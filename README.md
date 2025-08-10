@@ -1,7 +1,7 @@
 ## Prerequisites
 * Your device is running a recent version of Linux, Windows or macOS
 * [Docker](https://docs.docker.com/install/) and [Docker Compose](https://docs.docker.com/compose/install/) are already installed on your device
-* You'll need a MongoDB client in order to connect to the cluster. You may use the [MongoDB Shell](https://docs.mongodb.com/mongodb-shell/install/) or [MongoDB Compass](https://docs.mongodb.com/compass/current/install/).
+* You'll need a MongoDB client in order to connect to the cluster (you may use the [MongoDB Shell](https://docs.mongodb.com/mongodb-shell/install/) or [MongoDB Compass](https://docs.mongodb.com/compass/current/install/))
 
 ## Start, Run & Connect
 
